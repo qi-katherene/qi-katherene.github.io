@@ -36,7 +36,7 @@ place the images in project folder/images then update the file path.
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
-{https://youtu.be/gMguH-DOG48?si=6c7bOjr3b7p2LHs_.html id="gMguH-DOG48" autoplay= "false"%}
+https://youtu.be/gMguH-DOG48?si=6c7bOjr3b7p2LHs_.html id="gMguH-DOG48" autoplay= "false"%
 
 
 you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
