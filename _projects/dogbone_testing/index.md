@@ -6,5 +6,5 @@ skills:
   - Instron
   - Laser Cutting
   - Data Analysis
-main-image: /project2.jpg
+main-image: material testing dogbone.png
 ---
