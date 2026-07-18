@@ -14,12 +14,18 @@ main-image: /automated_resistor_sorter.JPG
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+# Overview
+Organizing mixed or used through-hole resistors is a tedious and time-consuming process. Beceause there is no commercially available, fully autonomous solution for sorting resistors, users are forced to sort them by hand, rely on limited hobbyist devices that require tedious one-by-one manual feeding, or simply throw used resistors away. 
+
+Discarding these components is not only economically inefficient but also environmentally harmful, as the metals used in resistors can become pollutants in landfills. 
+
+## User Research  
+The critical user needs were identified as high sorting accuracy, ease of use, scalable storage capacity, and the ability to process components in bulk.
+
+## System Subsystems
+1. Singulation
+2. Identification
+3. Sorting/Storage
 
 
 ## Embedding images 
