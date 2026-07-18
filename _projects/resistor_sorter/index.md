@@ -10,7 +10,7 @@ skills:
 - Communication
 - Arduino/Rasp Pi
 
-main-image: /project2.jpg
+main-image: automated_resistor_sorter.JPG
 ---
 
 ---
