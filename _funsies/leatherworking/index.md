@@ -13,5 +13,5 @@ main-image: /images/folded.png
 I made a notebook leather cover. Created the pattern myself based on the notebook 
 dimensions, with inspiration from existing leather notebook covers. <br> <br>
 
-{% include image-gallery.html images="images/folded.png" height="700" %} <br> 
-{% include image-gallery.html images="images/opened.png" height="700" %} <br>
+{% include image-gallery.html images="images/folded.png, images/opened.png" height="600" %} <br> 
+

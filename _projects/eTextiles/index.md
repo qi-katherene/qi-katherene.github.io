@@ -1,7 +1,7 @@
 ---
 layout: post
 title: E-textile Glowing Star
-project-id: eTextile
+project-id: eTextiles
 description: Interactive soft electronic device, using conductive textiles, embedded electronics, and textiles.
 skills: 
 - Embedded Electronics

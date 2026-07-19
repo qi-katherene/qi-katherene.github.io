@@ -11,7 +11,7 @@ skills:
   - Organization
   - Time Management
 
-main-image: images/doghouse_finished.png
+main-image: images/doghouse_drawing.png
 ---
 
 {% include image-gallery.html images="images/doghouse_drawing.png" height="700" %} <br> 
