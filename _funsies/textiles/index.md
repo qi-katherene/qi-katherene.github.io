@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Textile Projects
-order: 2
+project-id: textiles
 description: Sewing and Weaving Projects
 skills: 
 - Weaving
