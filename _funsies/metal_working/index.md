@@ -6,11 +6,14 @@ description: Pieces made during a jewelry making course
 skills: 
 - Soldering
 - Dremel
-- Casting
-- Sanding
+- Metal Casting
+- Surface Finishing
+- Hand Tools
 
-main-image: /images/photo.jpg
+main-image: /images/metalJewelry.png
 ---
 
-{% include image-gallery.html images="images/photo.png" height="700" %} <br> 
-{% include image-gallery.html images="images/photo.png" height="700" %} <br>
+After soldering metal pieces together, metal pickling techniques and a dremel 
+were used to clean the surfaces of the pieces. <br>
+
+{% include image-gallery.html images="images/metalJewelry.png" height="700" %} <br> 
