@@ -6,7 +6,7 @@
 
         {% for project_id in site.data.project_order %}
 
-            {% assign item = site.projects | where: "id", project_id | first %}
+            {% assign item = site.projects | where: "project-id", project_id | first %}
 
             {% if item %}
 
