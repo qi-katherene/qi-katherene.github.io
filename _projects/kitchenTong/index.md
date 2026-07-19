@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Assisted Kitchen Tongs
-order: 2
+project-id: tongs
 description: Mechanical Design 3 Course Project
 skills: 
 - CAD
