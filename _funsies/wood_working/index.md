@@ -18,8 +18,13 @@ skills:
 - Wood rasps and files
 - Combination square
 
-main-image: /images/photo.jpg
+main-image: /images/cat_after_polished.jpg
 ---
 
-{% include image-gallery.html images="images/photo.png" height="700" %} <br> 
-{% include image-gallery.html images="images/photo.png" height="700" %} <br>
+# Foldable Stool
+{% include image-gallery.html images="images/stool.HEIC" height="700" %} <br> 
+{% include image-gallery.html images="images/stool_folded.HEIC" height="700" %} <br>
+
+# Hand Carved Cat
+{% include image-gallery.html images="images/cat_before.JPG" height="700" %} <br> 
+{% include image-gallery.html images="images/cat_after_polished.jpg" height="700" %} <br>
