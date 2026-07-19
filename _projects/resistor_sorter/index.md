@@ -10,7 +10,7 @@ skills:
 - Communication
 - Arduino/Rasp Pi
 
-main-image: /automated_resistor_sorter.JPG
+main-image: /images/automated_resistor_sorter.JPG
 ---
 
 ---
@@ -27,21 +27,12 @@ The critical user needs were identified as high sorting accuracy, ease of use, s
 2. Identification
 3. Sorting/Storage
 
-## Embedding images 
-### External images
-{% include image-gallery.html images="images/24671_student_poster.jpg"}
-
-### Embed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-{% include image-gallery.html images="resistor_sorter/images/24671_student_poster.jpg" height="400" %} 
-
-place the images in project folder/images then update the file path.   
-
+{% include image-gallery.html images="images/24671_student_poster.jpg" %}
 
 ## Embedding youtube video
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
-https://youtu.be/gMguH-DOG48?si=6c7bOjr3b7p2LHs_.html id="gMguH-DOG48" autoplay= "false"%
+{% include youtube-video.html id="gMguH-DOG48" autoplay="false" %}
 
 you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
