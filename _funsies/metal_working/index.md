@@ -4,7 +4,7 @@ title: Jewelry Metal Working
 order: 2
 description: Pieces made during a jewelry making course
 skills: 
-- Solderingg
+- Soldering
 - Dremel
 - Casting
 - Sanding
