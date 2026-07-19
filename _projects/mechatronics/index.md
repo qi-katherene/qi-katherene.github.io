@@ -14,7 +14,5 @@ skills:
 main-image: /images/bawpIt_setup.jpg
 ---
 
-{% include image-gallery.html images="images/bawpIt_overview_schematic.png" height="700" %}
-{% include image-gallery.html images="images/bawpIt_container_schematic.png" height="700" %}
-
-<br>
+{% include image-gallery.html images="images/bawpIt_overview_schematic.png" height="700" %} <br> 
+{% include image-gallery.html images="images/bawpIt_container_schematic.png" height="700" %} <br>
