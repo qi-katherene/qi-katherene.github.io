@@ -4,21 +4,12 @@ title: Wood Working Projects
 project-id: wood-working
 description: Woodshop Projects
 skills: 
-- Table saw
-- Miter saw
-- Band saw
-- Jigsaw
-- Planer
-- Jointer
-- Drill press
-- Router / Router table
+- Wood Shop Machinery
 - Sanding & Finishing
 - Drilling & Assembly
-- Chisels
-- Wood rasps and files
-- Combination square
+- Wood Carving
 
-main-image: /images/cat_after_polished.jpg
+main-image: /images/cat_before.jpg
 ---
 
 # Foldable Stool
