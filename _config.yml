@@ -9,8 +9,6 @@
 
 title: Katherene's Portfolio # This is what shows up in the tab of the browser
 
-
-
 # Hero Section
 name: Katherene Qi
 headline: Curious Engineer | Hands on Builder
@@ -31,7 +29,7 @@ profile_image: ./assets/images/profile-image/kqi_headshot.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: https://drive.google.com/file/d/1y9AA6mdwFYhZitSkr_QkGH3AXKuYb0Pw/view?usp=sharing # or /assets/resume/resume.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
@@ -66,7 +64,7 @@ skills:
     - Arduino / Raspberry Pi
     - 3D Printing
     - Resin printing
-    - Breadboarding for circuit testing
+    - Breadboarding
     - Sewing
   - category: Programming
     tools:
