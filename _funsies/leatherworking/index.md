@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Textile Projects
-project-id: textiles
+title: Leather Notebook Cover
+project-id: leather-work
 description: Sewing and Weaving Projects
 skills: 
 - Leather Work
