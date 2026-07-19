@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Automated Resistor Sorter
+order: 1
 description: Designed and built an autonomous machine that sorts resistors from a bulk pile. The system automatically singulates, identifies, and sorts resistors with 95% accuracy and 11 resistors per minute.
 skills: 
 - Python
