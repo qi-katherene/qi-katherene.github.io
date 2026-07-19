@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wood Working Projects
-order: 1
+project-id: wood-working
 description: Woodshop Projects
 skills: 
 - Table saw
