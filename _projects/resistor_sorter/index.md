@@ -32,20 +32,20 @@ User interface was an additional feature we were able to implement, where it the
 {% include image-gallery.html images="images/capstone_functionalDecomposition.png" height="700" %}
 {% include image-gallery.html images="images/24671_student_poster.jpg" height="900" %}
 
-## Adding table 
+---
 
 | Metric | Result | 
 |----------|----------| 
 | Team Size | 5 | 
-| Timeline | Jan 2026 - Apr 2026 |
+| Duration | 4 Months |
 | Awards | Best Overall Project, Best Prototype |
-| Role | Mechanical Design, Integration | 
+| Role | Mechanical Design, GUI, Fabrication, Information Design | 
 | System Accuracy | 95% | 
 | Throughput | 11% | 
 
 # My Contributions
 
-The main areas of my technical contributions were in the sorting/storage subsystem and the GUI.
+The main areas of my technical contributions were in the sorting/storage subsystem, the GUI, and the presentation of information (e.g. poster, infographics).
 
 ## Challenges and Lessons Learned
 The main challenge of designing the storage system is to identify a scalable design that can increase or decrease the number of storage bins depending on the user's needs, while being capable of moving a resistor to the correct bin fast and accurately. 
