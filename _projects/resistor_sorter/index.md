@@ -27,10 +27,39 @@ The critical user needs were identified as high sorting accuracy, ease of use, s
 2. Identification
 3. Sorting/Storage
 
-{% include image-gallery.html images="images/24671_student_poster.jpg" %}
+User interface was a nice additional feature we were able to implement. 
+
+{% include image-gallery.html images="images/capstone_functionalDecomposition.png" height="700" %}
+{% include image-gallery.html images="images/24671_student_poster.jpg" height="700" %}
+
+## Adding table 
+| Metric | Result | 
+|----------|----------| 
+| Team Size | 5 | 
+| Timeline | Jan 2026 - Apr 2026 |
+| Awards | Best Overall Project, Best Prototype |
+| Role | Mechanical Design, Integration | 
+| System Accuracy | 95% | 
+| Throughput | 11% | 
 
 ## Embedding youtube video
 
 {% include youtube-video.html id="gMguH-DOG48" autoplay="false" %}
 
 <br>
+
+# My Contributions
+
+The main areas of my technical contributions were in the sorting/storage subsystem and the GUI.
+
+## Challenges and Lessons Learned
+The main challenge of designing the storage system is to identify a scalable design that can increase or decrease the number of storage bins depending 
+on the user's needs, while being capable of moving a resistor to the correct bin fast and accurately. 
+
+Some of the technical lessons I learned were:
+- It is better for all members to use the same units for CAD (mm or in, not both).
+- Good wire management, labeling, and color coding makes electronics much easier to debug.
+
+From this project, I recognize that there is never too much communication to coordinate work, starting early and having time to test, redesign, and 
+test again pays off, and it is important to align expectations and goals at the beginning of a project. 
+
