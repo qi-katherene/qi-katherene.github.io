@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jewelry Metal Working
-order: 2
+id: metal-working
 description: Pieces made during a jewelry making course
 skills: 
 - Soldering
