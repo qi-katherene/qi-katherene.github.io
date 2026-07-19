@@ -153,6 +153,7 @@ plugins:
 
 include:
   - _projects
+  - _funsies
 
 
 # Exclude from processing.
