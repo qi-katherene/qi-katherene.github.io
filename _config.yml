@@ -130,6 +130,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  funsies:
+    output: true
+    permalink: /funsies/:path/
 
 
 markdown: kramdown
