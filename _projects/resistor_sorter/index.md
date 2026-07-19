@@ -38,7 +38,7 @@ You can put in multiple entries. All images will be at a fixed height in the sam
 
 ### Embeed images
 {% include image-gallery.html images="project2.jpg" height="400" %} 
-{% include image-gallery.html images="images/24671_student_poster.jpg" height="400" %} 
+{% include image-gallery.html images="resistor_sorter/images/24671_student_poster.jpg" height="400" %} 
 
 
 place the images in project folder/images then update the file path.   
@@ -54,7 +54,7 @@ you can also set up custom size by specifying the width (the aspect ratio has be
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
 {% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
-
+https://www.youtube.com/watch?v=gMguH-DOG48.html id="gMguH-DOG48" autoplay="false"%
 <br>
 
 ## Adding a hozontal line
