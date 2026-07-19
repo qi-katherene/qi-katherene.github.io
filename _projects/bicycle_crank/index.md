@@ -9,7 +9,7 @@ skills:
 - 3D Printing
 - Laser Cutting
 
-main-image: /images/photo.jpg
+main-image: /images/bicycle crank image.png
 ---
 
 # Project Requirements
@@ -27,7 +27,8 @@ Our final design was a 2-layer acrylic piece epoxied together. It performed with
 
 Through this project, I learned that PLA's failure load was more unpredictable compared to acrylic through iterative testing. 
 The final decision to use only acrylic was based on early testing where acrylic's failure loads were closer to the expected load 
-compared to the designs using PLA.
+compared to the designs using PLA. 
 
-{% include image-gallery.html images="images/photo.JPG" height="700" %} <br> 
-{% include image-gallery.html images="images/photo.jpg" height="700" %} <br>
+<br>
+
+{% include image-gallery.html images="images/bicycle crank image.png" height="700" %} <br> 
