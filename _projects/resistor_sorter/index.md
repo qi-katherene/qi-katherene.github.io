@@ -27,16 +27,14 @@ The critical user needs were identified as high sorting accuracy, ease of use, s
 2. Identification
 3. Sorting/Storage
 
-
 ## Embedding images 
 ### External images
 /24671_student_poster.jpg
 {% include image-gallery.html images="/24-671_student_poster.jpg"}
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
+{% include image-gallery.html images="24-671_student_poster.jpg"}
+{% include image-gallery.html images="images/24-671_student_poster.jpg"}
 
-### Embeed images
+### Embed images
 {% include image-gallery.html images="project2.jpg" height="400" %} 
 {% include image-gallery.html images="resistor_sorter/images/24671_student_poster.jpg" height="400" %} 
 
@@ -55,6 +53,8 @@ you can also set up custom size by specifying the width (the aspect ratio has be
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
 {% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
 https://www.youtube.com/watch?v=gMguH-DOG48.html id="gMguH-DOG48" autoplay="false"%
+{% include https://www.youtube.com/watch?v=gMguH-DOG48.html id="gMguH-DOG48" autoplay="false"%}
+
 <br>
 
 ## Adding a hozontal line
