@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jewelry Metal Working Project
+title: Jewelry Metal Working
 order: 2
 description: Pieces made during a jewelry making course
 skills: 
