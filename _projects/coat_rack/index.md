@@ -16,5 +16,5 @@ The goal of this project was to successfully design a planar bracket (made of ac
 
 Hand calculations on this system were completed. This included internal moment, stress, and strain diagams for two subsections of the bracket, and the factor of safety of the design. FEA analysis were completed in SolidWorks. <br> <br>
 
-# CAD and Physical Prototype Photos
+# CAD and FEA
 {% include image-gallery.html images="images/coat rack CAD.png" height="700" %} <br> 
