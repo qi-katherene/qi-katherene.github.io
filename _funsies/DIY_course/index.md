@@ -9,15 +9,14 @@ skills:
 - Fabrication
 - Resin
 
-main-image: /images/huggleStand_infographic.png
+main-image: /images/clay_process.png
 ---
 
 # HuggleStand
 {% include image-gallery.html images="images/huggleStand_infographic.png" height="500" %} <br> 
 
 # Convertabox
-{% include image-gallery.html images="images/convertabox_drawings.png" height="300" %} <br> 
-{% include image-gallery.html images="images/convertabox_infographic.png" height="500" %} <br> 
+{% include image-gallery.html images="images/convertabox_infographic.png, images/convertabox_drawings.png" height="500" %} <br> 
 
 # Foam + Clay Dagger
 The design's core is supported with expanding foam, using clay for the external detailing.
