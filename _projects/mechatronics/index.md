@@ -11,6 +11,8 @@ skills:
 - Teamwork
 - Communication
 
-main-image: 
+main-image: /images/bawpIt_setup.jpg
 ---
+
+{% include image-gallery.html images="images/bawpIt_overview_schematic.png, bawpIt_container_schematic.png" height="700" %}
 
