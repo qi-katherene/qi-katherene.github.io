@@ -30,9 +30,9 @@ The critical user needs were identified as high sorting accuracy, ease of use, s
 ## Embedding images 
 ### External images
 /24671_student_poster.jpg
-{% include image-gallery.html images="/24-671_student_poster.jpg"}
-{% include image-gallery.html images="24-671_student_poster.jpg"}
-{% include image-gallery.html images="images/24-671_student_poster.jpg"}
+{% include image-gallery.html images="/24671_student_poster.jpg"}
+{% include image-gallery.html images="24671_student_poster.jpg"}
+{% include image-gallery.html images="images/24671_student_poster.jpg"}
 
 ### Embed images
 {% include image-gallery.html images="project2.jpg" height="400" %} 
