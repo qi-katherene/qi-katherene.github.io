@@ -12,14 +12,21 @@ title: X's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: X
-headline: Mechanical Engineer
+name: Katherene Qi
+headline: Curious Engineer | Hands on Builder
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  XX
-  XX
+  I am a Mechanical Engineer completing my Master’s degree at Carnegie Mellon University after 
+  earning my Bachelor’s degree in Mechanical Engineering. 
 
+  Through academic projects, research, and industry experience, I have explored 
+  mechanical design, mechatronics, manufacturing, and automotive crash safety while 
+  developing skills in areas such as CAD, CAE, fabrication, and electromechanical system integration.
+  
+  I enjoy working in collaborative environments where I can contribute to impactful projects, 
+  combine different perspectives, and work with others to develop practical solutions to complex engineering challenges.
+  
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/kqi_headshot.jpg
 
 
 # Link your resume
